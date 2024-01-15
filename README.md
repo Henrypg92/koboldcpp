@@ -2,10 +2,10 @@
 
 KoboldCpp es un software de generación de texto con inteligencia artificial fácil de usar diseñado para modelos GGML y GGUF. Se trata de un distribuible independiente proporcionado por Concedo, que se basa en llama.cpp y agrega un versátil punto de conexión de API de Kobold, soporte adicional de formato, compatibilidad hacia atrás, así como una interfaz de usuario elegante con historias persistentes, herramientas de edición, formatos de guardado, memoria, información del mundo, nota del autor, personajes, escenarios y todo lo que Kobold y Kobold Lite tienen para ofrecer.
 
-![Vista previa](media/preview.png)
-![Vista previa](media/preview2.png)
-![Vista previa](media/preview3.png)
-![Vista previa](media/preview4.png)
+![Preview](media/preview.png)
+![Preview](media/preview2.png)
+![Preview](media/preview3.png)
+![Preview](media/preview4.png)
 
 ## Uso en Windows
 - **[Descargar la última versión .exe aquí](https://github.com/LostRuins/koboldcpp/releases/latest)** o clonar el repositorio de git.
